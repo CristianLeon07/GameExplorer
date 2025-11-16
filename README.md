@@ -7,9 +7,15 @@ En la pantalla principal (Home) encontrarás un buscador para encontrar cualquie
 
 Esta app de prueba esta adaptada a modo claro y oscuro, y está construida con buenas prácticas de desarrollo: usa MVVM, Hilt y navegación tipada, implementa casos de usos, manejo de errores, lo que hace que la app sea estable y fácil de mantener. También maneja la carga de datos y errores de manera eficiente para que la experiencia sea fluida.
 
-
-
-
+Algunas capturas de pantalla del proyecto.
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/login.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/home_ligth.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/home_dark.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/menu_ligth.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/menu_dark.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/perfil_ligth.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/detalle.jpeg)
+![image alt](https://github.com/CristianLeon07/GameExplorer/blob/477f871fa488d37201e23b0e273af36041295d22/detalle_trailers.jpeg)
 
 
 
