@@ -22,15 +22,15 @@ class AuthViewModel @Inject constructor(
     private val getCurrentUserUseCase: GetCurrentUserUseCase
 ) : ViewModel() {
 
-    // ------------------------
+
     // Estado del usuario actual
-    // ------------------------
+
     private val _currentUser = mutableStateOf<UserModel?>(null)
     val currentUser: State<UserModel?> = _currentUser
 
-    // ------------------------
+
     // Estado de carga
-    // ------------------------
+
     private val _isLoading = mutableStateOf(false)
     val isLoading: State<Boolean> = _isLoading
 
