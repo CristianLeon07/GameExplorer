@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601089863789",
+    "project_id": "apigames-e2157",
+    "storage_bucket": "apigames-e2157.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601089863789:android:552435f365cbd563d74f64",
+        "android_client_info": {
+          "package_name": "com.example.consumoapijetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601089863789-6ush1a8t2jfpt2v4gsd4sii4ll1nmuqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.consumoapijetpackcompose",
+            "certificate_hash": "7d43fb1f318f81843b42f344f5c832456d584de0"
+          }
+        },
+        {
+          "client_id": "601089863789-20np1cvt0j704dfi54maj2g555jkjk53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8M10ywkH3E7-7O868tdVhlfKJZWGtq5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601089863789-20np1cvt0j704dfi54maj2g555jkjk53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
